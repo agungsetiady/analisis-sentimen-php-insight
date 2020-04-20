@@ -5,3 +5,6 @@
 
 ## Deskripsi
 Klasifikasi menggunakan kamus kata-kata yang terdiri dari kategori positif, netral, dan negatif. Perhitungan kemungkinan sentimen dihitung oleh Algoritma Naive Bayes. Akurasi dapat ditingkatkan dengan memodifikasi kamus kata (source) dan algoritma.
+
+## Screenshoot
+![Alt text](/img/page.png?raw=true "Analisis Sentimen")

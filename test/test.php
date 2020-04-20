@@ -11,7 +11,7 @@ $strings = array(
 	5 => 'jalanan ke kampung utan rusak berat, tolong perbaiki dong',
 );
 
-require_once __DIR__ . '/autoload.php';
+require_once __DIR__ . '../../autoload.php';
 $sentiment = new \PHPInsight\Sentiment();
 
 $i=1;
